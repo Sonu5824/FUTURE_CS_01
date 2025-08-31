@@ -1,0 +1,8 @@
+# Ignore OS/editor temp files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Ignore logs and backups
+*.log
+*.bak
