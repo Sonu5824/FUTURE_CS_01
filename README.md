@@ -33,6 +33,6 @@ The objective is to perform security testing on a web application, identify vuln
 ---
 
 ### ✅ How to Navigate
-- `report.pdf` → Complete vulnerability analysis
+- `report.md` → Complete vulnerability analysis
 - `screenshots/` → Exploitation proof
 
