@@ -27,7 +27,7 @@ The objective is to perform security testing on a web application, identify vuln
 ---
 
 ### ✅ Deliverables
-- **[Security Report](report.pdf)** – Detailed report of all findings with mitigations
+- **[Security Report](report.md)** – Detailed report of all findings with mitigations
 - **Screenshots Folder** – Evidence of exploitation steps
 
 ---
