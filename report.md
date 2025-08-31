@@ -46,7 +46,7 @@ Clear result statement: “Confirmed SQL Injection; no XSS found; no auth flaws 
 
 Mitigation (SQLi): Parameterized queries/prepared statements, ORM parameter binding, strict input validation, least-privileged DB account.
 
-Appendix – Commands (copy/paste friendly)
+Appendix – Commands
 
 nmap 10.201.9.34 -Pn -n -p- --open -sV -T4 -oN nmap.txt
 whatweb http://10.201.9.34
